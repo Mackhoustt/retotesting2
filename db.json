@@ -1,0 +1,23 @@
+{
+    "usuarios":[
+        {
+            "id": 1,
+            "primer_apellido": "Jaramillo",
+            "segundo_apellido": "Avendaño",
+            "nombre": "Paola",
+            "username": "paolajara",
+            "password": "827ccb0eea8a706c4c34a16891f84e7b"
+        },
+
+        {
+            "id": 2,
+            "primer_apellido": "Morales",
+            "segundo_apellido": "Restrepo",
+            "nombre": "David",
+            "username": "Dmora",
+            "password": "01cfcd4f6b8770febfb40cb906715822"
+        }
+
+
+    ]
+}
